@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 
-- ✨-- rarksule.github.io
 - 👋 Hi, I’m @suleyman Asrar
 - 👀 I’m interested in Mobile app development
 - 🌱 I’m currently unemployed
 - 💞️ I’m looking to collaborate on frelancing jobs
 - 📫 How to reach me ... rarksule30@gmail.com
+- ✨-- https://rarksule.github.io
 - 😄 Pronouns: ...him/he
 - ⚡ Fun fact: ... you're reading this.
 
