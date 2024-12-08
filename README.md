@@ -8,6 +8,7 @@
 - 📫 How to reach me ... rarksule30@gmail.com
 - 😄 Pronouns: ...him/he
 - ⚡ Fun fact: ... you're reading this.
+- ✨--> https://rarkksule.github.io
 
 <!--
 suley30/suley30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
